@@ -1,6 +1,6 @@
 {
-    "name": "montri/video-youtube",
-    "description": "A Laravel Nova field.",
+    "name": "montri/youtube-video-field",
+    "description": "A Field allowing you to add Youtube Videos to your Nova Resources!",
     "keywords": [
         "laravel",
         "nova"
